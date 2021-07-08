@@ -11,8 +11,6 @@ def multiply(x,y):
     
 #divide  added 
 def divide(x,y):
-<<<<<<< HEAD
-    return (x/y)
-=======
+
     return (x/y) # local changes
->>>>>>> 7cefe20 (divide changes in local)
+
